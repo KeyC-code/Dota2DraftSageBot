@@ -1,5 +1,4 @@
 .env
-requirements.txt
 dota_copilot.db
 venv/lib64
 venv/pyvenv.cfg
